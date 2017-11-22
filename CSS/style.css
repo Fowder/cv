@@ -224,7 +224,7 @@ p {
 	font-family: 'Barlow', sans-serif;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 1000px) {
 	body {
 		background-image: url("https://fowder.github.io/cv/img/backgroundmobile.jpeg");
 		background-size: 100%;
