@@ -117,7 +117,7 @@ div.image {
 body {
 	padding-top: 0px;
 	margin-top: 0px;
-	background-image: url("/home/emile/WWW/ProjetCV/img/background.jpg");
+	background-image: url("https://fowder.github.io/cv/img/background.jpg");
 }
 
 .progressang {
@@ -226,7 +226,7 @@ p {
 
 @media only screen and (max-width: 400px) {
 	body {
-		background-image: url("/home/emile/WWW/ProjetCV/img/backgroundmobile.jpeg");
+		background-image: url("https://fowder.github.io/cv/img/backgroundmobile.jpeg");
 		background-size: 100%;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
